@@ -1,5 +1,5 @@
 # VisuallyImpairedIndoorNavigation
-Sep-Dec 2013 - Android app to enable VI users to navigate indoors
+Sep-Dec 2012 - Android app to enable VI users to navigate indoors
 
 This app works by triangulating the user's distance between various bluetooth beacons based on their signal strength.
 A video demo of the system in action can be found at http://youtu.be/CYQ7AvyzTlk
